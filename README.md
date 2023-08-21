@@ -45,12 +45,13 @@ Sendo o usuário um Cliente, ele poderá atualizar seu perfil, fazer um pedido, 
 
 #### Clone o projeto
 ` 
+git clone https://github.com/Herick-Bay/desafio-final-frontend.git
 `
 
 #### Entre no diretório:
 
 ` 
-cd 
+cd desafio-final-frontend
 `
 
 #### Instale as dependências:
